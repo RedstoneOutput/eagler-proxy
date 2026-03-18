@@ -1,0 +1,12 @@
+{
+  "name": "eagler-proxy-render",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "eaglerproxy": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
